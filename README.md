@@ -1,6 +1,6 @@
 # Hi, I'm Yasir Alam 
 
-I am a Computer Science researcher and Machine Learning Engineer specializing in Generative AI. My work bridges spatial computing, continuous latent representations, and advanced language model alignment.
+I hold a Master's degree with a specialization in Machine Learning, and I am actively focusing my work on Generative AI and building multi-agent systems. My academic and technical projects bridge advanced language model alignment, continuous latent representations, and spatial computing.
 
 ## 🔬 Core Focus Areas
 
